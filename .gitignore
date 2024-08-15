@@ -1,0 +1,26 @@
+# Archivos y carpetas generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por compiladores o herramientas de construcción
+/build/
+*.o
+*.exe
+*.dll
+
+# Archivos de configuración del entorno
+.env
+
+# Dependencias descargadas (si se usan paquetes específicos)
+/vendor/
+/node_modules/
+
+# Archivos temporales de IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Archivos de backup
+*.bak
