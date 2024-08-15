@@ -15,8 +15,8 @@ FamishQuest es un videojuego de mazmorras con jugabilidad roguelike, donde el ju
 - Dependencias: [Lista de bibliotecas utilizadas]
 
 ## Instalación
-1. Clona el repositorio: git clone https://github.com/tu_usuario/FamishQuest.git
-2. Navega al directorio del proyecto: cd FamishQuest
+1. Clona el repositorio: git clone https://github.com/IvanDobobuto/FamishQuest.git
+2. Navega al directorio del proyecto: FamishQuest
 3. Compila el proyecto: make
 
 ## Uso
